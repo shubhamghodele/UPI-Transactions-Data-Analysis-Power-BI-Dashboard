@@ -90,9 +90,9 @@ Business Impact & Insights:
 • Decision Support – Helps fintech and banking teams improve digital payment strategies
 
 6.Screenshots / Demos Show what the dashboard looks like.
-![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Transactions%20by%20Month(Line).png)
-![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Transactions%20by%20Month(Column%20Chart).png)
-![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Balance%20by%20Month(Line%20Chart).png)
-![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Balance%20by%20Month(Column%20Chart).png)
-![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Details.png)
+Transactions by Month(Line Chart)![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Transactions%20by%20Month(Line).png)
+Transactions by Month(Column Chart)![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Transactions%20by%20Month(Column%20Chart).png)
+Balance by Month(Line Chart)![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Balance%20by%20Month(Line%20Chart).png)
+Balance by Month(Column Chart)![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Balance%20by%20Month(Column%20Chart).png)
+Matrix Table![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Details.png)
 
