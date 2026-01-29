@@ -89,5 +89,10 @@ Business Impact & Insights:
 • Geographical Analysis – Compares UPI usage across cities
 • Decision Support – Helps fintech and banking teams improve digital payment strategies
 
-6.Screenshots / Demos
+6.Screenshots / Demos Show what the dashboard looks like.
+![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
+![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
+![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
+![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
+![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
 
