@@ -90,9 +90,9 @@ Business Impact & Insights:
 • Decision Support – Helps fintech and banking teams improve digital payment strategies
 
 6.Screenshots / Demos Show what the dashboard looks like.
-![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
-![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
-![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
-![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
-![Dashboard Overview](./Screenshots/Dashboard_Overview.png)
+![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Transactions%20by%20Month(Line).png)
+![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Transactions%20by%20Month(Column%20Chart).png)
+![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Balance%20by%20Month(Line%20Chart).png)
+![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Balance%20by%20Month(Column%20Chart).png)
+![Dashboard Overview](https://github.com/shubhamghodele/UPI-Transactions-Data-Analysis-Power-BI-Dashboard/blob/main/Details.png)
 
